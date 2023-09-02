@@ -1,4 +1,4 @@
-What42's Shader Ownership License 1.1
+What42's Shader Ownership License 1.2
 Effective Date: None; this license does not currently apply to anything or anyone.
 
 
@@ -9,9 +9,9 @@ Effective Date: None; this license does not currently apply to anything or anyon
 
 1.2. "Shaderpack" refers to any software package that can be loaded by the Minecraft mod "OptiFine" or any compatible alternatives (such as Iris).
 
-1.3. "This Shaderpack" refers to the all of the files and contents of said files that were packaged with This License.
+1.3. "Specifically This Shaderpack" refers to the all of the files and contents of said files that were packaged with This License.
 
-1.4. "Creator", in the context of This Shaderpack, refers to the person or party that currently has ownership of This Shaderpack.
+1.4. "Creator", in the context of Specifically This Shaderpack, refers to the person or party that currently has ownership of This Shaderpack.
 
 1.4. "Special Permissions" refers to rules that can override the rules of other licenses that were given by the Creator of This Shaderpack.
 
@@ -19,17 +19,19 @@ Effective Date: None; this license does not currently apply to anything or anyon
 
 1.6. "Fork", in the context a Shaderpack, refers to an altered copy of said Shaderpack.
 
+1.7. "This Shaderpack" refers to Specifically This Shaderpack and all future official versions of This Shaderpack, but does not refer to Forks of This Shaderpack.
 
 
-By recieving This License from the Creator of This Shaderpack, you have been given Special Permissions for using This Shaderpack.
+
+By recieving This License from the Creator of Specifically This Shaderpack, you have been given Special Permissions for using This Shaderpack.
 
 
 
 2. Special Permissions
 
-2.1. You are allowed to consider yourself an owner of This Shaderpack, because you are considered by the Creator of This Shaderpack to be an owner.
+2.1. You are allowed to consider yourself an owner of This Shaderpack, because you are considered by the Creator of Specifically This Shaderpack to be an owner.
 
-2.2. The rules and/or conditions of all other licenses that were packaged with This Shaderpack by the Creator of This Shaderpack may be discarded in regards to This Shaderpack. Some examples of what is allows are: redistributing This Shaderpack, making official changes to This Shaderpack, giving This License (packaged with This Shaderpack) to others, etc.
+2.2. The rules and/or conditions of all other licenses that are packaged with This Shaderpack by the Creator of This Shaderpack may be discarded in regards to This Shaderpack. Some examples of what is allows are: redistributing This Shaderpack, making official changes to This Shaderpack, giving This License (packaged with This Shaderpack) to others, etc.
 
 
 
@@ -39,14 +41,12 @@ By recieving This License from the Creator of This Shaderpack, you have been giv
 
 3.2. This Shaderpack includes Code from multiple people, and no one person has the copyright for the entirety of This Shaderpack.
 
-3.3. This License only applies to This Shaderpack.
+3.3. All other laws (including Copyright laws) still need to be considered and upheld when using This Shaderpack in any way.
 
-3.4. All other laws (including Copyright laws) still need to be considered and upheld when using This Shaderpack in any way.
+3.4. All licenses of Base Shaderpack(s) still need to be considered and upheld when using This Shaderpack in any way.
 
-3.5. All licenses of Base Shaderpack(s) still need to be considered and upheld when using This Shaderpack in any way.
-
-3.6. If you create a Fork or Forks of This Shaderpack, all licenses packaged with This Shaderpack take effect in regards to said Fork(s).
+3.5. If you create a Fork or Forks of This Shaderpack, all licenses packaged with This Shaderpack take effect in regards to said Fork(s).
 
 
 
-NOTE: THIS LICENSE ONLY TAKES EFFECT IF GIVEN TO YOU BY THE CREATOR OF THIS SHADERPACK.
+NOTE: THIS LICENSE ONLY TAKES EFFECT IF GIVEN TO YOU BY THE CREATOR OF SPECIFICALLY THIS SHADERPACK.
